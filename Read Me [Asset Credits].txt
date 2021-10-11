@@ -1,0 +1,80 @@
+Assets and Respective Owner
+[Please use appropriate Credits]
+
+- Backgrounds                        - Sprite Work by
+
+Continue Screen                     Elvies
+EndScene1-11                          Elvies
+GameOver Screen                   Elvies
+If Device Supports Color       Elvies
+Main BGM Test                        Elvies
+Main Character Select           Elvies
+Main Controls                          Elvies
+Main Credits1-4                       Elvies
+Main Extra                                 Elvies
+Main Gallery                             Elvies
+Main Menu                                Elvies
+Main Title                                  Elvies
+Stage Practice                          Elvies
+Stage1-5                                    Elvies
+Stage5.1                                    Elvies
+Story Mode Menu                    Elvies
+Story0                                        Elvies
+Story1-1                                    Elvies
+Story1-2                                    Elvies
+Story1-2.1                                 Elvies
+Story1-3                                    Elvies
+Story1-3.1                                 Elvies
+Story1-4                                    Elvies
+Story1-4.1                                 Elvies
+Story2-1                                    Elvies
+Story2-2                                    Elvies
+Story2-3                                    Elvies
+
+-Sprites                 Owner
+
+Birb1-19               LazyDev
+Bulb1-17              sKrap Klan
+Custom1-14         Elvies
+Dgal1-20               Chris Maltby
+DuckA1-10           Elvies
+DuckB1-10           Elvies
+DuckBB1-10        Elvies
+EBirb1-16             LazyDev
+EBounty1-3         Skittles
+EBug1-19            Team Cherry
+EBulb1-16           sKrap Klan 
+EDuck1-6             Chris Maltby
+EGal1-17              Chris Maltby
+EGoblin1-2          Pixel Pete
+EGurb1-17           Pixel Pete
+EKris1-16            Spacebot Interactive
+EMist1-16            RainBowChild
+ENemo1-15          Pearacidic
+ERose1-16           Skittles
+ESamurai1-15      Stranger
+ESquirrel1-3         Pixel Pete
+EWink1-15            MaxOakland
+GB Spin1-4           Elvies
+GB2 Spin1-4         Elvies
+GBStudio Cart     Elvies
+GBStudio Text     Elvies
+Gurb1-19               Pixel Pete
+Impact1-2              Elvies
+Kris1-22               Spacebot Interactive
+Mist1-19              RainBowChild
+Nemo1-25            Pearacidic
+Rose1-20             Skittles
+Samurai1-19        Stranger
+StoryChapterNo     Elvies
+StoryChapterTease   Elvies
+StoryChapterTxt     Elvies
+StoryNPC1-9              [Various]
+TrainingDuck1-3     Elvies
+Wink1-19                 MaxOakland
+
+- UI
+
+Frame      Elvies
+ASCII        Elvies
+Cursor     Elvies

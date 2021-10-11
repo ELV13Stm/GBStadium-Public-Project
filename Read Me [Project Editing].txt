@@ -1,0 +1,26 @@
+- When editting the game please use this
+Universal Controls as to stay consistent
+through every iteration of the project.
+
+Arcade Mode                    Story Mode
+A ---------- Jump                Jump
+B ---------- Attack              Attack
+Start ----- Pause               Pause
+Select --- Heal                  Switch Player
+UP ------- Skill1                 Interact
+DOWN -- Skill2                 Skill
+LEFT --- Move Left          Move Left
+RIGHT -- Move Right      Move Right
+
+- The project is made using GB Studio 2 beta5.
+
+- Permanent Variable assigned as OnGround/Air check is variable 005 [Can be seen in Platformer.c last line of code for reference]
+
+- Engine Mods included are UI Interactable Mod, Actor Bits, Move Towards/Away Event, Extra Engine Event [Player X Velocity]. Switched A/B Inputs and No Limit Menu Plugins
+
+- Warning on using an event that targets an actor; PLEASE SPECIFY THE TARGET ACTOR, FOR SOME REASON IF ACTOR IS SET TO [SELF] IT WILL ALWAYS TARGET THE PLAYER.
+e.g. Hide Actor [Self] when Scene is initialized the hidden actor will be the Player not the [self] one, this will get annoying if you dont specify the target actor. Please use with extreme caution.
+
+All assets are free to use with appropriate credits.
+Music used are liscensed as Public Domain
+Credit owner of Character when using them.
